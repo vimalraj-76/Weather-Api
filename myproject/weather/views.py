@@ -4,7 +4,7 @@ from django.http import JsonResponse, HttpResponse
 from django.views.decorators.csrf import csrf_exempt
 
 
-API_KEY = '31371bc5c3msh34f399b07961d46p192883jsn2ba7562e3194'
+API_KEY = 'YOUR_API_KEY'
 
 
 @csrf_exempt
